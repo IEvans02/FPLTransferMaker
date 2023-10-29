@@ -7,3 +7,4 @@ All data is taken from the fantasy football API. The data consists of the top 10
 There is also players breakdown data used, such as everyone individuals breakdowns of gameweek points.
 
 Ideally, I would use a year where there was no disruption (World Cup, Covid), but for the matter of recency, I have gone for the 2022/2023 year.
+A copy of the in progress data collection can be seen in the FPLTransferRecommender-Copy1.ipynb file where I use multiple api endpoints to generate a dataframe suitable for Matrix Factorisation.
